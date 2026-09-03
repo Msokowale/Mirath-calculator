@@ -1,5 +1,5 @@
 # Mirath-calculator
-A python project for calculations of Islamic inheritance 
+A python project for calculations of Islamic inheritance
 def mirath(total, spouse=None, father=False, mother=False, sons=0, daughters=0, brothers=0, sisters=0):
     """
     total: total estate
